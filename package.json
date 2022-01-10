@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnebeliEmmanuel/rebranded-portfolio-website.git"
+  },
+  "author": "Koko_codes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnebeliEmmanuel/rebranded-portfolio-website/issues"
+  },
+  "homepage": "https://github.com/EnebeliEmmanuel/rebranded-portfolio-website#readme"
+}
